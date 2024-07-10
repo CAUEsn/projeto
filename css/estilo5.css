@@ -1,0 +1,33 @@
+.nave{
+    width: 100%;
+    margin: 0 auto;
+    height: 140px;
+    background-color: rgba(77, 77, 77, 0.903);
+}
+.navbar{
+    float:left;
+	width:0 auto;
+	height:80px;
+	margin-top:30px;
+	margin-left:200px;
+}
+
+.navbar a{
+    text-decoration:none;
+    color:rgb(103, 103, 103);
+    font-size:20px;
+}
+.navbar a:hover{
+    background-color:#819FF7;
+    color: black;
+	padding:14px 14px;
+	border: 1px solid #819FF7;
+}
+
+.container{
+    width:100%;
+    margin: 0 auto;
+    height: 900px;
+    background-color: #819FF7;
+}
+
